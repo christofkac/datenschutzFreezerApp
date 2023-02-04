@@ -1,29 +1,7 @@
 Datenschutzerklärung
 ====================
 
-Einleitung
-----------
-
 Stand: 29. Januar 2023
-
-Inhaltsübersicht
-----------------
-
-*   [Einleitung](#m4158)
-*   [Verantwortlicher](#m3)
-*   [Übersicht der Verarbeitungen](#mOverview)
-*   [Maßgebliche Rechtsgrundlagen](#m13)
-
-Verantwortlicher
-----------------
-
-Christof Kaczmarek  
-An der Geis 39  
-47228 Duisburg
-
-E-Mail-Adresse:
-
-[christof.kac@gmail.com](mailto:christof.kac@gmail.com)
 
 Übersicht der Verarbeitungen
 ----------------------------
