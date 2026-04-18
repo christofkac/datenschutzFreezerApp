@@ -1,5 +1,5 @@
-Datenschutzerklärung
-====================
+Datenschutzerklärung Gefrierschrank Verwaltung App
+=========================
 
 Stand: 29. Januar 2023
 
